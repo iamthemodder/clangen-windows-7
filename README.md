@@ -2,6 +2,8 @@
 
 I whipped this little script up to make it simpler to get ClanGen running on mainly Windows 7 machines where the installer doesn't work.
 
+Here's a little demo I made up if you need something to follow along with: [click me!](https://www.youtube.com/watch?v=KGIbqiMjqx0 "Demo Video")
+
 ## 4 things to do:
 1. Download and extract this repository (you can get the zip by clicking 'Code' followed by 'Download ZIP' above the file list, or just click [this link](https://github.com/iamthemodder/clangen-windows-7/archive/refs/heads/main.zip "Link to ZIP").
 2. Download and install Python 3.8.6 and make sure to check the "Add Python 3.8 to PATH" checkbox. (you can get it from [this link](https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe "Python Download"))
